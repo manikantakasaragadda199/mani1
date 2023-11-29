@@ -1,0 +1,8 @@
+ant -f C:\\Users\\User\\Health-Monitoring_system\\LibraryManagement -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\User\Health-Monitoring_system\LibraryManagement\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\User\Health-Monitoring_system\LibraryManagement\build\built-jar.properties
+compile:
+run:
+BUILD SUCCESSFUL (total time: 1 minute 5 seconds)
